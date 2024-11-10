@@ -37,4 +37,4 @@ graph TD
   G --> G2[Budget Management]
   G --> G3[Cost Monitoring]
 
-  H --> H1[practices of sustentability]
+  H --> H1[Carbon Footprint]
