@@ -38,3 +38,34 @@ graph TD
   G --> G3[Cost Monitoring]
 
   H --> H1[Carbon Footprint]
+
+
+  Grafico:
+  
+  graph LR
+    A[Data Literacy Enablement] --> B[Awareness]
+    A --> C[Education]
+    A --> D[Skill Development]
+    A --> E[Culture Change]
+    
+    B --> F[Understand Data Importance]
+    B --> G[Identify Data Opportunities]
+    
+    C --> H[Training Programs]
+    C --> I[Workshops]
+    C --> J[Online Courses]
+    
+    D --> K[Hands-on Practice]
+    D --> L[Mentoring]
+    D --> M[Data Tools Proficiency]
+    
+    E --> N[Encourage Data-driven Decisions]
+    E --> O[Promote Data Sharing]
+    E --> P[Develop Data Governance Policies]
+    
+    F --> Q[Data in Business Context]
+    G --> R[New Data-driven Initiatives]
+    
+    M --> S[Visualization Tools]
+    M --> T[Analysis Software]
+    M --> U[Data Management Platforms]
